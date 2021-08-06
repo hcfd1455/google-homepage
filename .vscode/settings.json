@@ -1,0 +1,8 @@
+{
+  "files.autoSave": "onFocusChange",
+  "editor.defaultFormatter": "mblode.pretty-formatter",
+  "editor.formatOnSave": true,
+  "diffEditor.wordWrap": "on",
+  "editor.tabSize": 2,
+  "editor.linkedEditing": true
+}
